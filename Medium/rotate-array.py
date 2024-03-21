@@ -15,3 +15,4 @@ class Solution:
 
 sol = Solution()
 sol.rotate([1, 2, 3, 4, 5, 6, 7], 3)
+
